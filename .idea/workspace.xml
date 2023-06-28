@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4db9599c-2893-47d9-9e34-f4a4220a9b33" name="Changes" comment="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。">
+      <change beforePath="$PROJECT_DIR$/src/Idea.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Idea.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="hot_fix" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot_fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PGpz1Xhxekd8bMZdIqwOOoJPV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Java/webProject/reggie",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17964694",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "settings.editor.splitter.proportion": "0.23822223",
+    "spring.configuration.checksum": "3acf5c7b740d6e2538f3a7b88cf069b3"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\webProject\reggie\src\main\java\com\hga\reggie\utils" />
+      <recent name="E:\Java\webProject\reggie\src\main\java\com\hga\reggie\entity" />
+      <recent name="E:\Java\webProject\reggie\src\main\java\com\hga\reggie\dto" />
+      <recent name="E:\Java\webProject\reggie\src\main\resources\backend\page\demo" />
+      <recent name="E:\Java\webProject\reggie\src\main\java\com\hga\reggie\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\webProject\reggie" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hga.reggie" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hga.reggie.Test" />
+      <module name="reggie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hga.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hga.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hga.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Spring Boot.ReggieApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db9599c-2893-47d9-9e34-f4a4220a9b33" name="Changes" comment="" />
+      <created>1683093534152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683093534152</updated>
+      <workItem from="1683093536464" duration="24660000" />
+      <workItem from="1683183859861" duration="11063000" />
+      <workItem from="1683550289591" duration="7434000" />
+      <workItem from="1686379748788" duration="18751000" />
+      <workItem from="1686467074949" duration="18731000" />
+      <workItem from="1686542141345" duration="31015000" />
+      <workItem from="1686625879440" duration="2912000" />
+      <workItem from="1686636652187" duration="415000" />
+      <workItem from="1687255079857" duration="916000" />
+      <workItem from="1687920139351" duration="6107000" />
+    </task>
+    <task id="LOCAL-00001" summary="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。">
+      <created>1687922425981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687922425981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。">
+      <created>1687922557245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687922557245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。">
+      <created>1687923952164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687923952164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。">
+      <created>1687924050860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687924050860</updated>
+    </task>
+    <task id="LOCAL-00005" summary="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。">
+      <created>1687924109177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687924109177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是黑马程序员的瑞吉外卖项目，只有web端，移动端，没有开发完成，因为验证码问题。" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper" memberName="expression" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
