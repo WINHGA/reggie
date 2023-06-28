@@ -1,4 +1,0 @@
-我是 hot_fix ,我修改了内容。
-
-我hot_fix修改了。
-我 master 修改了。
